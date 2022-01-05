@@ -38,7 +38,23 @@ p{
 }
 .center-section{
     display: flex;
+    background-image: url(himu/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
-.text-item{
-    padding-right: 30px;
+.flex-container{
+    display: flex;
+}
+.last-width{
+    box-shadow: 10px 10px 40px grey;
+    width: 30%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 5%;
+    padding: 20px;
+}
+.footer-section{
+  background-image: url(himu/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;  
 }
