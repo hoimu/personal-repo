@@ -1,0 +1,44 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    color: darkorange;
+}
+span{
+    color: red;
+}
+p{
+    color: grey;
+}
+.top-section{
+   background-image: url(himu/top-banner.png);
+   background-repeat: no-repeat;
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-left: 5%;
+    padding-top:5%;
+}
+.half-width img{
+    width: 80%;
+
+}
+.ankor-tag{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+   background-image: linear-gradient(orangered,rgb(236, 52, 19));
+}
+.center-section{
+    display: flex;
+}
+.text-item{
+    padding-right: 30px;
+}
